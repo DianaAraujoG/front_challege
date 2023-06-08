@@ -1,0 +1,20 @@
+{
+  "name": "front_challege",
+  "version": "1.0.0",
+  "description": "Prueba tecnica para puesto Front End.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DianaAraujoG/front_challege.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DianaAraujoG/front_challege/issues"
+  },
+  "homepage": "https://github.com/DianaAraujoG/front_challege#readme"
+}
